@@ -1,3 +1,3 @@
-module anguslu/golang/utils
+module github.com/AngusLu/golang-jie-utils
 
 go 1.13
